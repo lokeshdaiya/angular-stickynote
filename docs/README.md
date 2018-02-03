@@ -3,7 +3,7 @@ Simple applicaton to store small notes.
 
 This project is developed using angular5 and cordova.
 
-You can check deployed app here `https://play.google.com/store/apps/details?id=io.loksa.myquicknotes`.
+You can check deployed app here [https://play.google.com/store/apps/details?id=io.loksa.myquicknotes](https://play.google.com/store/apps/details?id=io.loksa.myquicknotes).
 
 ## Setup
 
