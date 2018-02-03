@@ -22,7 +22,10 @@
     padding: 5px;
     outline: none;
     height: 150px;
-    border-radius: 8px;
+    background: transparent;
+    border: none;
+    resize: none;
+    width:150px;
     overflow-y: auto;
 }
 

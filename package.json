@@ -1,6 +1,6 @@
 {
-  "name": "angular-template",
-  "description": "",
+  "name": "my-quick-notes",
+  "description": "Save your small notes",
   "homepage": "https://stackblitz.com/edit/angular-stickynote",
    "scripts": {
     "ng": "ng",

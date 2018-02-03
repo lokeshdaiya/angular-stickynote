@@ -22,8 +22,8 @@ export class AppComponent  implements OnInit {
   
   saveNote(event){
     const id = event.srcElement.parentElement.parentElement.getAttribute('id');
-    const content = event.target.innerText;
-    event.target.innerText = content;
+    const content = event.target.value;
+    // event.target.innerText = content;
     const json = {
       'id':id,
       'content':content

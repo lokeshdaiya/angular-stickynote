@@ -6,7 +6,7 @@
   "apps": [
     {
       "root": "src",
-      "outDir": "../NgNotes/www",
+      "outDir": "./app/www",
       "assets": [
         "assets",
         "favicon.ico"
